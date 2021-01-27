@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: THE MORTGAGE BROKER SOFTWARE FOR GROWING FIRMS
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      *BrokerEngine* is the first and only mortgage broker software guaranteed
+      to grow your revenue while working fewer hours, with push-button
+      automation and workflows that free you up to focus on your highest-value
+      activities.
     actions:
       - label: Learn More
         url: /features
